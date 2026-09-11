@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository contains the dissertation abstract (автореферат) of **Zakharchenko Denis Valerievich** on the topic *"Clinical and dynamic characteristics of recurrent depressive disorder in late life"* (Клинико-динамическая характеристика рекуррентного депрессивного расстройства в позднем возрасте), defended for the degree of **Candidate of Medical Sciences** in specialty **14.01.06 — Psychiatry**.
+This repository contains the dissertation abstract (автореферат) of **Zakharchenko Denis Valerievich** on the topic _"Clinical and dynamic characteristics of recurrent depressive disorder in late life"_, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry**.
 
 The work was performed at the **V.M. Bekhterev St. Petersburg Scientific Research Psychoneurological Institute**.
 
 ## Author
 
-- **Zakharchenko Denis Valerievich**
+- **Zakharchenko Denis**
 
 ## Scientific Supervision
 
@@ -31,14 +31,10 @@ rdd-late-life-thesis/
 ├── LICENSE                            # Apache 2.0 License
 ├── en/
 │   └── abstract/
-│       ├── abstract.en.md             # Abstract in English
-│       ├── 1.en.jpg                   # Figure 1 (English)
-│       └── 2.en.jpg                   # Figure 2 (English)
+│       └── abstract.en.md             # Abstract in English
 └── ru/
     ├── abstract/
-    │   ├── abstract.ru.md             # Abstract in Russian
-    │   ├── 1.ru.jpg                   # Рисунок 1 (Russian)
-    │   └── 2.ru.jpg                   # Рисунок 2 (Russian)
+    │   └── abstract.ru.md             # Abstract in Russian
     └── text/
         ├── Диссертация_Д.В._Захарченко.pdf  # Full text — Dissertation (PDF)
         ├── Диссертация_Д.В._Захарченко.doc  # Full text — Dissertation (DOC)
@@ -52,24 +48,11 @@ rdd-late-life-thesis/
 - **[English version](en/abstract/abstract.en.md)**: `en/abstract/abstract.en.md`
 - **[Russian version](ru/abstract/abstract.ru.md)**: `ru/abstract/abstract.ru.md`
 
-### Images (Figures)
-
-The abstracts include two figures illustrating key research findings:
-
-1. **Figure 1 / Рисунок 1** — Correlation between the age of disease onset and the average duration of remission
-   - English: `en/abstract/1.en.jpg`
-   - Russian: `ru/abstract/1.ru.jpg`
-
-2. **Figure 2 / Рисунок 2** — Comparative dynamics of remission durations
-   - English: `en/abstract/2.en.jpg`
-   - Russian: `ru/abstract/2.ru.jpg`
-
 ### Full Text and Materials
 
-The full dissertation text and the questionnaire are available in the `ru/text/` directory:
+The full dissertation text and the questionnaire are available in the `ru/text/` directory (russian):
 
-- **Full text — Dissertation** (PDF): [ru/text/Диссертация_Д.В._Захарченко.pdf](ru/text/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%94.%D0%92._%D0%97%D0%B0%D1%85%D0%B0%D1%80%D9%87%D0%B5%D0%BD%D0%BA%D0%BE.pdf)
-- **Full text — Dissertation** (DOC): [ru/text/Диссертация_Д.В._Захарченко.doc](ru/text/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%94.%D0%92._%D0%97%D0%B0%D1%85%D0%B0%D1%80%D9%87%D0%B5%D0%BD%D0%BA%D0%BE.doc)
+- **Full text — Dissertation** (PDF): [ru/text/Диссертация*Д.В.*Захарченко.pdf](ru/text/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%94.%D0%92._%D0%97%D0%B0%D1%85%D0%B0%D1%80%D9%87%D0%B5%D0%BD%D0%BA%D0%BE.pdf)
 - **Questionnaire**: [ru/text/опросник.doc](ru/text/%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BD%D0%B8%D0%BA.doc)
 
 > **Note (Russian README)**: The Russian version of this README — [README.ru.md](README.ru.md) — contains additional links to the full text and the questionnaire.
