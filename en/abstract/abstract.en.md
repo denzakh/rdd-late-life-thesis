@@ -184,12 +184,12 @@ Analysis of psychopharmacological treatment of the current episode showed that p
 
 Table 2 - Indicators of the Hamilton Depression Rating Scale at admission and discharge
 
-| Group                                                | 1 Late-onset depression | 2 Depression with onset in the involution period | 3 Early-onset depression |
-| ---------------------------------------------------- | ----------------------- | ------------------------------------------------ | ------------------------ | ----------- | ---------- | ----------- |
-| Indicators                                           | Admission               | Discharge\*                                      | Admission                | Discharge\* | Admission  | Discharge\* |
-| **M ± SD**                                           | 22.1 ± 5.3              | 6.5 ± 3.6\*                                      | 21.7 ± 5.9               | 5.1 ± 4.7\* | 25.4 ± 7.3 | 6.6 ± 4.8   |
-| **N**                                                | 29                      | 26                                               | 63                       | 57          | 18         | 17          |
-| _Note: _ - differences are significant (p < 0.05).\* |                         |                                                  |                          |
+| Group                                | 1 Late-onset depression  | 2 Depression with onset in the involution period | 3 Early-onset depression |
+| ------------------------------------ | ------------------------ | ------------------------------------------------ | ------------------------ |
+| **M ± SD** (Admission / Discharge\*) | 22.1 ± 5.3 / 6.5 ± 3.6\* | 21.7 ± 5.9 / 5.1 ± 4.7\*                         | 25.4 ± 7.3 / 6.6 ± 4.8   |
+| **N** (Admission / Discharge\*)      | 29 / 26                  | 63 / 57                                          | 18 / 17                  |
+
+_Note: differences are significant (p < 0.05).\*_
 
 Thus, the conducted study allowed us to state that recurrent depression in late life is characterized by an unfavorable course of the disease. It was found that the nature of the course of an affective disorder, its clinical manifestations and the degree of response to antidepressant therapy are largely associated with the age of the disease onset. The most unfavorable type is late-onset depression (after 55 years), where a high frequency of phase formation, a tendency to a protracted course, short incomplete remissions, and a relatively low response to pharmacotherapy are observed. On the contrary, early-onset depression (before 45 years) is relatively favorable in terms of overall prognosis of the disease, and depression with onset in involution age (45-55 years) - regarding the results of treatment with antidepressants. Perhaps, the influence of beginning involutional processes, causing an intense restructuring in this age period of the adaptive-compensatory capabilities of the individual, at the age of 45-55 years creates prerequisites for the development of more frequent, but less severe depressions. Consideration of these data can be useful for further study of affective pathology, planning pharmacotherapy, as well as evaluating the prognosis of the disease in elderly patients with depression.
 
