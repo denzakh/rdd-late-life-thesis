@@ -17,7 +17,8 @@ tracking disease course, remission quality, and treatment response over
 time — became the foundation for a working clinical data registry I built
 as a software engineering project:
 
-**→ [Recurrent Depression Registry (RDD)](https://github.com/denzakh/rdd)**
+**[Recurrent Depression Registry (RDD)](https://github.com/denzakh/rdd)**
+
 A demo-scale clinical registry (Next.js / Cloudflare Workers / D1) implementing
 the same phase-tracking, remission-calculation, and outcome-scale logic used
 to collect and analyze the data in this study — including row-level access
