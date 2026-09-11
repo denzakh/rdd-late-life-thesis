@@ -12,6 +12,22 @@ The work was performed at the **V.M. Bekhterev St. Petersburg Scientific Researc
 
 - **Nikolay Neznanov** — Doctor of Medical Sciences, Professor
 
+## From research to software
+
+The longitudinal, phase-based data model developed for this research —
+tracking disease course, remission quality, and treatment response over
+time — became the foundation for a working clinical data registry I built
+as a software engineering project:
+
+**→ [Recurrent Depression Registry (RDD)](https://github.com/denzakh/rdd)**
+A demo-scale clinical registry (Next.js / Cloudflare Workers / D1) implementing
+the same phase-tracking, remission-calculation, and outcome-scale logic used
+to collect and analyze the data in this study — including row-level access
+control, audit logging, and de-identified data export for statistical analysis.
+
+It's a practical example of how the clinical methodology here translates
+into a real data architecture.
+
 ## Content
 
 ### Abstract
