@@ -184,10 +184,10 @@ Analysis of psychopharmacological treatment of the current episode showed that p
 
 Table 2 - Indicators of the Hamilton Depression Rating Scale at admission and discharge
 
-| Group                                | 1 Late-onset depression  | 2 Depression with onset in the involution period | 3 Early-onset depression |
-| ------------------------------------ | ------------------------ | ------------------------------------------------ | ------------------------ |
-| **M ± SD** (Admission / Discharge\*) | 22.1 ± 5.3 / 6.5 ± 3.6\* | 21.7 ± 5.9 / 5.1 ± 4.7\*                         | 25.4 ± 7.3 / 6.6 ± 4.8   |
-| **N** (Admission / Discharge\*)      | 29 / 26                  | 63 / 57                                          | 18 / 17                  |
+| Group                    | 1 Late-onset depression | 2 Depression with onset in the involution period | 3 Early-onset depression |
+| ------------------------ | ----------------------- | ------------------------------------------------ | ------------------------ |
+| Admission (N / M ± SD)   | 29 / 22,1 ± 5,3         | 63 / 21,7 ± 5,9                                  | 18 / 25,4 ± 7,3          |
+| Discharge\* (N / M ± SD) | 26 / 6,5 ± 3,6\*        | 57 / 5,1 ± 4,7\*                                 | 17 / 6,6 ± 4,8           |
 
 _Note: differences are significant (p < 0.05).\*_
 
