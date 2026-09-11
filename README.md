@@ -2,19 +2,15 @@
 
 ## Overview
 
-This repository contains the dissertation abstract (автореферат) of **Zakharchenko Denis Valerievich** on the topic _"Clinical and dynamic characteristics of recurrent depressive disorder in late life"_, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry**.
+This repository contains the dissertation of **Denis Zakharchenko** on the topic \*"Clinical and dynamic characteristics of recurrent depressive disorder in late life"**, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry\*\*.
 
-- **[Abstract](en/abstract/abstract.en.md)**: `en/abstract/abstract.en.md`
+**[read the abstract](en/abstract/abstract.en.md)**
 
 The work was performed at the **V.M. Bekhterev St. Petersburg Scientific Research Psychoneurological Institute**.
 
-## Author
-
-- **Zakharchenko Denis**
-
 ## Scientific Supervision
 
-- **Neznanov Nikolay Grigoryevich** — Doctor of Medical Sciences, Professor
+- **Nikolay Neznanov** — Doctor of Medical Sciences, Professor
 
 ## Defense Information
 
@@ -68,7 +64,3 @@ The study analyzed clinical and dynamic characteristics of recurrent depressive 
 ## License
 
 This project is licensed under the **Apache 2.0 License** — see the [LICENSE](LICENSE) file for details.
-
-## References
-
-The full bibliography is included in the abstract documents (see References section in both the [English](en/abstract/abstract.en.md) and [Russian](ru/abstract/abstract.ru.md) versions).
