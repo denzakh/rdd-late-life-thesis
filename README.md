@@ -8,9 +8,7 @@ This repository contains the dissertation of **Denis Zakharchenko** on the topic
 
 The work was performed at the **V.M. Bekhterev St. Petersburg Scientific Research Psychoneurological Institute**.
 
-## Scientific Supervision
-
-- **Nikolay Neznanov** — Doctor of Medical Sciences, Professor
+Scientific Supervision: **Nikolay Neznanov** — Doctor of Medical Sciences, Professor
 
 ## From research to software
 
