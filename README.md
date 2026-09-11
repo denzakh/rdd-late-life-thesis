@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the dissertation of **Denis Zakharchenko** on the topic \*"Clinical and dynamic characteristics of recurrent depressive disorder in late life"**, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry\*\*.
+This repository contains the dissertation of **Denis Zakharchenko** on the topic **"Clinical and dynamic characteristics of recurrent depressive disorder in late life"**, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry**.
 
 **[read the abstract](en/abstract/abstract.en.md)**
 
