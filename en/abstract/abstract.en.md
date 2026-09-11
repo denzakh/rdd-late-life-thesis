@@ -34,7 +34,7 @@ Scientific Secretary of the Dissertation Council, Doctor of Medical Sciences, Pr
 
 Previous studies have found the specificity of the psychopathological structure of depression in the elderly and the features of its dynamics during the aging process (Efimenko M.L., 1975; Sternberg E.Ya., 1977; Vertogradova O.P., 1986; Kontsevoy V.A., 1997), however, their results turned out to be largely contradictory. Thus, most studies showed prognostically unfavorable features of depression and its dynamics in late life: increased frequency, aggravation and atypicality of phasic fluctuations, predominance of anxious affect, the addition of delusional disorders and intellectual decline, high comorbidity with somatic diseases (Efimenko V.L., 1975; Mineev A.N., 1983). At the same time, other authors noted that in a number of cases, the features and dynamics of late-life depression are characterized by a decrease in the amplitude of mood fluctuations, simplification and typification of syndromal manifestations, an increase in the proportion of incomplete states and a predominance of affective disorders of a neurotic level (Sudareva L.O., 1983; Vertogradova O.P., 1986; Vorobyova O.V., 2004).
 
-A pressing issue in psychiatry is the typification of depression, both in general and particularly in late life. At the moment, there is no general classification of depressive disorders, but only various methods for dividing depressions into subtypes, within which some features are emphasized as system-forming, then others (Petrova N.N., 1996; Tiganov A.S., 1999; Smulevich A.B., 2013; Harald B., 2012), which complicates the possibility of comparing the results of different studies with each other.
+A pressing issue in psychiatry is the typification of depression, both in general and particularly in late life. At the moment, there is no general classification of depressive disorders, but only various methods for dividing depressions into subtypes, within which now one set of features, now another, is emphasized as system-forming (Petrova N.N., 1996; Tiganov A.S., 1999; Smulevich A.B., 2013; Harald B., 2012), which complicates the possibility of comparing the results of different studies with each other.
 
 Also ambiguous remains the assessment of the possibilities of antidepressant therapy in gerontopsychiatric practice. Numerous studies comparing the effectiveness of treating depression in elderly and middle-aged patients did not allow reaching a common point of view regarding the severity of differences in therapeutic approaches between these groups, since the results of these works differed significantly among different researchers (Babin S.M., 1996; Andrusenko M.P., 2004; Hughes D.C., 1993; Fischer L.R., 2003). At the same time, most studies compared only the response to therapy of elderly and middle-aged patients, without taking into account the influence of the clinical picture and the characteristics of the course of the recurrent affective disease.
 
@@ -186,8 +186,8 @@ Table 2 - Indicators of the Hamilton Depression Rating Scale at admission and di
 
 | Group                    | 1 Late-onset depression | 2 Depression with onset in the involution period | 3 Early-onset depression |
 | ------------------------ | ----------------------- | ------------------------------------------------ | ------------------------ |
-| Admission (N / M ± SD)   | 29 / 22,1 ± 5,3         | 63 / 21,7 ± 5,9                                  | 18 / 25,4 ± 7,3          |
-| Discharge\* (N / M ± SD) | 26 / 6,5 ± 3,6\*        | 57 / 5,1 ± 4,7\*                                 | 17 / 6,6 ± 4,8           |
+| Admission (N / M ± SD)   | 29 / 22.1 ± 5.3         | 63 / 21.7 ± 5.9                                  | 18 / 25,4 ± 7,3          |
+| Discharge\* (N / M ± SD) | 26 / 6.5 ± 3.6\*        | 57 / 5.1 ± 4.7\*                                 | 17 / 6.6 ± 4.8           |
 
 _Note: \* differences are significant (p < 0.05)._
 
@@ -209,7 +209,7 @@ Thus, the conducted study allowed us to state that recurrent depression in late 
 
 7. Differences in the course of a recurrent affective disease in late life were mainly associated with the age of disease onset. For an early onset of depression (up to 45 years), the rarest exacerbations and longest remissions are characteristic, and, conversely, for a group of patients with late onset depression (after 55 years), the most frequent exacerbations and short remissions are characteristic. The group with the onset of depression in the involutional period (45-55 years) occupies an intermediate position in these indicators.
 
-8. As the disease developed, for the entire group of patients with recurrent depression in old age, a progressive decrease in the duration and quality of remissions was characteristic, categorically classified to its symptomatic variants. At the same time, the most frequent residual symptomatology in remission was affective instability.
+8. As the disease developed, for the entire group of patients with recurrent depression in old age, a progressive decrease in the duration and quality of remissions was characteristic, classified as symptomatic variants. At the same time, the most frequent residual symptomatology in remission was affective instability.
 
 9. The effectiveness of the performed antidepressant therapy in patients whose disease development is associated with a late (after 55 years) or earlier (up to 45 years) age did not differ significantly. In contrast, in patients with the onset of depression in the involutional period (45-55 years), a greater reduction in psychopathological symptoms and depression-related cognitive symptoms was noted than in patients of the other two compared groups.
 
