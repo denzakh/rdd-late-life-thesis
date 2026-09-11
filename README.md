@@ -4,6 +4,8 @@
 
 This repository contains the dissertation abstract (автореферат) of **Zakharchenko Denis Valerievich** on the topic _"Clinical and dynamic characteristics of recurrent depressive disorder in late life"_, defended for the degree of **Candidate of Medical Sciences** in specialty **Psychiatry**.
 
+- **[Abstract](en/abstract/abstract.en.md)**: `en/abstract/abstract.en.md`
+
 The work was performed at the **V.M. Bekhterev St. Petersburg Scientific Research Psychoneurological Institute**.
 
 ## Author
